@@ -1,0 +1,2206 @@
+html:
+==========
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Cosmetic - Beauty products HTML website templates">
+    <meta name="keywords" content="Introduce your beauty and cosmetic product with the benefits and advantages of your product. Create beauty product landing page in responsive manner. It will work well on all devices">
+    <meta name="author" content="Awaiken">
+	<!-- Page Title -->
+	<title>Cosmetic landing page - Beauty & Cosmetics Product HTML Landing Page Templates</title>
+	<!-- Google Fonts css-->
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900" rel="stylesheet">
+	<!-- Bootstrap css -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="css/bootsnav.css" rel="stylesheet" media="screen">
+	<!-- Font Awesome icon css-->
+	<link href="css/font-awesome.min.css" rel="stylesheet" media="screen">
+	<link href="css/flaticon.css" rel="stylesheet" media="screen">
+	<!-- Swiper's CSS -->
+	<link rel="stylesheet" href="css/swiper.min.css">
+	<!-- Animated css -->
+	<link href="css/animate.css" rel="stylesheet">
+	<!-- Main custom css -->
+	<link href="css/custom.css" rel="stylesheet" media="screen">
+
+</head>
+<body>
+	<!-- Preloader starts -->
+	<div class="preloader">
+		<span class="loader">
+			<span class="loader-inner"></span>
+		</span>
+	</div>
+	<!-- Preloader Ends -->
+
+	<!-- Header Section Starts-->
+	<header>
+		<nav class="navbar navbar-default navbar-fixed-top navbar-scrollspy bootsnav" data-minus-value-desktop="72" data-minus-value-mobile="67" data-speed="1000">
+			<div class="container">      
+				<!-- Start Header Navigation -->
+				<div class="navbar-header">
+					<a class="navbar-brand" href="#"><img src="images/logo.png" class="logo" alt=""></a>
+					
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+						<i class="fa fa-bars"></i>
+					</button>
+				</div>
+				<!-- End Header Navigation -->
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="navbar-menu">
+					
+					<ul class="nav navbar-nav navbar-right">
+						<li class="active scroll"><a href="#home">Home</a></li>
+						<li class="scroll"><a href="#benefits">Benefits</a></li>
+						<li class="scroll"><a href="#feature">Features</a></li>
+						<li class="scroll"><a href="#testimonial">Testimonials</a></li>
+						<li class="scroll"><a href="#products">Products</a></li>
+						<li class="scroll"><a href="#contact">Contact</a></li>
+					</ul>
+				</div><!-- /.navbar-collapse -->
+			</div>   
+		</nav>
+	</header>
+	<!-- Header Section Ends-->
+	
+	<!-- Banner Section Starts -->
+	<section class="banner" id="home">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="swiper-container header-slider">
+						<div class="swiper-wrapper">
+							<!-- Header slide start -->
+							<div class="swiper-slide">
+								<div class="row">
+									<div class="col-md-5 col-sm-6">
+										<div class="header-content wow fadeInUp">
+											<h2>Simply put, our cream is the best</h2>
+											<p><span>Bring out the woman in you</span>. Our face cream has been cultivated by months of research and made with only the finest natural blends of oils.</p>						
+											<div class="buy-button">
+												<a href="#" class="btn-buynow arrow-left"><i class="fa fa-shopping-cart"></i> Buy IT Now</a>
+											</div>
+										</div>
+									</div>
+									
+									<div class="col-md-6 col-sm-6 col-md-offset-1">
+										<div class="slider-image wow fadeInRight">
+											<img src="images/header.png" alt="" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Header slide end -->
+							
+							<!-- Header slide start -->
+							<div class="swiper-slide">
+								<div class="row">
+									<div class="col-md-5 col-sm-6">
+										<div class="header-content wow fadeInUp">
+											<h2>Be everything you have ever wanted</h2>
+											<p><span>It is a long established fact</span>. that a reader will be distracted by the readable content of a page when looking at its layout.</p>						
+											<div class="buy-button">
+												<a href="#" class="btn-buynow arrow-left"><i class="fa fa-shopping-cart"></i> Buy IT Now</a>
+											</div>
+										</div>
+									</div>
+									
+									<div class="col-md-6 col-sm-6 col-md-offset-1">
+										<div class="slider-image wow fadeInRight">
+											<img src="images/header-1.png" alt="" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Header slide end -->
+							
+							<!-- Header slide start -->
+							<div class="swiper-slide">
+								<div class="row">
+									<div class="col-md-5 col-sm-6">
+										<div class="header-content wow fadeInUp">
+											<h2>Shine bright like a diamond</h2>
+											<p><span>Bring out the woman in you</span>. Our face cream has been cultivated by months of research and made with only the finest natural blends of oils.</p>						
+											<div class="buy-button">
+												<a href="#" class="btn-buynow arrow-left"><i class="fa fa-shopping-cart"></i> Buy IT Now</a>
+											</div>
+										</div>
+									</div>
+									
+									<div class="col-md-6 col-sm-6 col-md-offset-1">
+										<div class="slider-image wow fadeInRight">
+											<img src="images/slider-3.png" alt="" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Header slide end -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+		
+		<!-- Header slider Next Previous button -->
+		<div class="swiper-button-group">
+			<div class="swiper-button-prev header-slider-btn"><i class="fa fa-angle-left"></i></div>
+			<div class="swiper-button-next header-slider-btn"><i class="fa fa-angle-right"></i></div>
+		</div>
+		<!-- Header slider Next Previous button end-->
+	</section>
+	<!-- Banner Section Ends -->
+	
+	<!-- Benefits and Advantages Starts -->
+	<section class="benefits" id="benefits">
+		<div class="container">
+			<div class="row">
+				<!-- Benefit image start -->
+				<div class="col-md-6 col-sm-5">
+					<div class="benefits-image wow fadeInLeft">
+						<img src="images/benefits.png" alt="" />
+					</div>
+				</div>
+				<!-- Benefit image end -->
+				
+				<!-- Benefit Content start -->
+				<div class="col-md-6 col-sm-7">
+					<div class="section-title wow fadeInUp">
+						<p>The Product</p>
+						<h2>Benefits and Advantages</h2>
+					</div>
+					
+					<div class="benefits-content wow fadeInUp" data-wow-delay="0.4s">
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+						
+						<ul>
+							<li>Eye and facial makeup</li>
+							<li>Lipsticks</li>
+							<li>Nail Polishes</li>
+							<li>Lotions</li>
+							<li>Powders</li>
+							<li>Skincare Creams</li>
+							<li>Hair Sprays</li>
+						</ul>
+						
+						<a href="#" class="btn-buynow arrow-right">View More Detail <i class="fa fa-long-arrow-right"></i></a>
+					</div>
+				</div>
+				<!-- Benefit Content end -->
+			</div>
+		</div>
+	</section>
+	<!-- Benefits and Advantages ends -->
+	
+	<!-- Order Now section starts -->
+	<section class="ordernow">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-sm-8">
+					<div class="ordernow-entry  wow fadeInUp" data-wow-delay="0.4s">
+						<h2>50% Discounts for You</h2>
+						<p>A woman deserves to be respected, admired and appreciated. Personality and appearance play a significant role in making the first impression an appealing one.</p>
+						
+						<a href="#" class="btn-buynow arrow-left"><i class="fa fa-shopping-cart"></i> Buy IT Now</a>
+					</div>
+				</div>
+				
+				<div class="col-md-4 col-sm-4">
+					<div class="ordernow-image wow fadeInRight">
+						<img src="images/discount.png" alt="" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Order Now section ends -->
+	
+	<!-- Features Section Starts -->
+	<section class="features" id="feature">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-title wow fadeInUp">
+						<p>Best Service</p>
+						<h2>Awesome Features</h2>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<!-- Feature image start -->
+				<div class="col-md-5">
+					<div class="feature-image wow fadeInLeft">
+						<img src="images/feature.png" alt="" />
+					</div>
+				</div>
+				<!-- Feature image end -->
+				
+				<!-- Feature Content start -->
+				<div class="col-md-7">					
+					<div class="features-content">
+						<div class="features-single wow fadeInRight" data-wow-delay="0.4s">
+							<div class="icon-box">
+								<i class="flaticon-make-up"></i>
+							</div>
+							
+							<h3>Highlight Facial</h3>
+							<p>Facial makeup products are products that are used to color and highlight facial features. They can either directly add or alter color, or can be applied over a foundation making the color even and smooth.</p>
+						</div>
+						
+						<div class="features-single wow fadeInRight" data-wow-delay="0.6s">
+							<div class="icon-box">
+								<i class="flaticon-cosmetics-1"></i>
+							</div>
+							
+							<h3>Sun Protection Creams</h3>
+							<p>Facial makeup products are products that are used to color and highlight facial features. They can either directly add or alter color, or can be applied over a foundation making the color even and smooth.</p>
+						</div>
+						
+						<div class="features-single wow fadeInRight" data-wow-delay="0.8s">
+							<div class="icon-box">
+								<i class="flaticon-love"></i>
+							</div>
+							
+							<h3>Healthy Skin and Hair</h3>
+							<p>Facial makeup products are products that are used to color and highlight facial features. They can either directly add or alter color, or can be applied over a foundation making the color even and smooth.</p>
+							
+							<a href="#" class="btn-buynow arrow-left"><i class="fa fa-shopping-cart"></i> Buy IT Now</a>
+						</div>
+					</div>
+				</div>
+				<!-- Feature Content end -->
+			</div>
+		</div>
+	</section>
+	<!-- Features Section ends -->
+	
+	<!-- Testimonial starts -->
+	<section class="testimonials parallaxie" id="testimonial">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<div class="section-title wow fadeInUp">
+						<p>Testimonials</p>
+						<h2>Customer Review</h2>
+					</div>
+					
+					<div class="testimonial-heading wow fadeInUp" data-wow-delay="0.4s">
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+					</div>
+				</div>
+				
+				<div class="col-md-8">
+					<div class="swiper-container testimonial-slider">
+						<div class="swiper-wrapper">
+							<!-- Testimonial slide start -->
+							<div class="swiper-slide">
+								<div class="testimonial-single">
+									<div class="testimonial-author">
+										<img src="images/author-1.jpg" alt="" />
+									</div>
+									
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+									<h3>Harshad Patel <span>/ Frontend Developer</span></h3>
+								</div>
+							</div>
+							<!-- Testimonial slide end -->
+							
+							<!-- Testimonial slide start -->
+							<div class="swiper-slide">
+								<div class="testimonial-single">
+									<div class="testimonial-author">
+										<img src="images/author-2.jpg" alt="" />
+									</div>
+									
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+									<h3>Harshad Patel <span>/ Frontend Developer</span></h3>
+								</div>
+							</div>
+							<!-- Testimonial slide end -->
+							
+							<!-- Testimonial slide start -->
+							<div class="swiper-slide">
+								<div class="testimonial-single">
+									<div class="testimonial-author">
+										<img src="images/author-3.jpg" alt="" />
+									</div>
+									
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+									<h3>Harshad Patel <span>/ Frontend Developer</span></h3>
+								</div>
+							</div>
+							<!-- Testimonial slide end -->
+						</div>
+						
+						<!-- Testimonial Pagination start -->
+						<div class="testimonial-pagination"></div>
+						<!-- Testimonial Pagination end -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Testimonial ends -->
+	
+	<!-- Product section starts -->
+	<section class="products" id="products">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-title wow fadeInUp">
+						<p>Beautiful</p>
+						<h2>Our Products</h2>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12">
+					<div class="swiper-container product-slider">
+						<div class="swiper-wrapper">
+							
+							<!-- Product Slide start -->
+							<div class="swiper-slide">
+								<div class="product-single">
+									<div class="product-image">
+										<figure>
+											<img src="images/product-1.jpg" alt="" />
+										</figure>
+									</div>
+									
+									<div class="product-information">
+										<h3>Face Eye Liner <a href="#">Cosmetic</a></h3>
+										<div class="product-rating">
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Product Slide end -->
+							
+							<!-- Product Slide start -->
+							<div class="swiper-slide">
+								<div class="product-single">
+									<div class="product-image">
+										<figure>
+											<img src="images/product-2.jpg" alt="" />
+										</figure>
+									</div>
+									
+									<div class="product-information">
+										<h3>Facial Cream<a href="#">Facial</a></h3>
+										<div class="product-rating">
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Product Slide end -->
+							
+							<!-- Product Slide start -->
+							<div class="swiper-slide">
+								<div class="product-single">
+									<div class="product-image">
+										<figure>
+											<img src="images/product-3.jpg" alt="" />
+										</figure>
+									</div>
+									
+									<div class="product-information">
+										<h3>Rose Perfume <a href="#">Body Spray</a></h3>
+										<div class="product-rating">
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Product Slide end -->
+							
+							<!-- Product Slide start -->
+							<div class="swiper-slide">
+								<div class="product-single">
+									<div class="product-image">
+										<figure>
+											<img src="images/product-4.jpg" alt="" />
+										</figure>
+									</div>
+									
+									<div class="product-information">
+										<h3>Moisture Creams<a href="#">Cream</a></h3>
+										<div class="product-rating">
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Product Slide end -->
+							
+							<!-- Product Slide start -->
+							<div class="swiper-slide">
+								<div class="product-single">
+									<div class="product-image">
+										<figure>
+											<img src="images/product-5.jpg" alt="" />
+										</figure>
+									</div>
+									
+									<div class="product-information">
+										<h3>Face Powders<a href="#">Powder</a></h3>
+										<div class="product-rating">
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Product Slide end -->
+							
+							<!-- Product Slide start -->
+							<div class="swiper-slide">
+								<div class="product-single">
+									<div class="product-image">
+										<figure>
+											<img src="images/product-2.jpg" alt="" />
+										</figure>
+									</div>
+									
+									<div class="product-information">
+										<h3>Facial Cream <a href="#">Facial</a></h3>
+										<div class="product-rating">
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Product Slide end -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Product section ends -->
+	
+	<!-- Newsletter box starts -->
+	<div class="newsletter">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="newsletter-box wow fadeInLeft">
+						<h2>Get your free samples today!</h2>
+						<p>Join our newsletter and get our awesome FREE samples!</p>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<!-- Newsletter Form start -->
+					<div class="newsletter-form wow fadeInRight">
+						<form action="#" class="form-inline">
+							<div class="form-group">
+								<input class="form-control" type="email" name="your-email" id="your-email" placeholder="Enter Your Email address" required="">
+								<button class="btn-subscribe" type="submit">Subscribe</button>
+							</div>
+						</form>
+					</div>
+					<!-- Newsletter Form end -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Newsletter box ends -->
+	
+	<!-- Contact Section starts -->
+	<section class="contact" id="contact">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-7">
+					<h2>Keep in Touch</h2>
+					
+					<!-- Contact Form start -->
+					<div class="contact-form">
+						<form id="contactForm" action="#" method="post" data-toggle="validator">
+							<div class="row">
+								<div class="form-group col-md-6 col-sm-6">
+									<input type="text" name="name" id="name" class="form-control" placeholder="Enter Your Name" required>
+									<div class="help-block with-errors"></div>
+								</div>
+								
+								<div class="form-group col-md-6 col-sm-6">
+									<input type="email" name="email" id="email" class="form-control" placeholder="Your Email Address" required>
+									<div class="help-block with-errors"></div>
+								</div>
+								
+								<div class="form-group col-md-12 col-sm-12">
+									<input type="text" name="subject" id="subject" class="form-control" placeholder="Subject" required>
+									<div class="help-block with-errors"></div>
+								</div>
+								
+								<div class="form-group col-md-12 col-sm-12">
+									<textarea rows="11" name="message" id="message" class="form-control" placeholder="How can i help you?" required></textarea>
+									<div class="help-block with-errors"></div>
+								</div>
+								
+								<div class="col-md-12 col-sm-12">
+									<button type="submit" class="btn-contact" title="Submit Your Message!"><i class="fa fa-send-o"></i> Submit</button>
+									<div id="msgSubmit" class="h3 text-left hidden"></div>
+								</div>
+							</div>
+						</form>
+					</div>
+					<!-- Contact Form end -->
+				</div>
+				
+				<div class="col-md-4 col-md-offset-1">
+					<div class="offer-slider-box">
+						<h2>Best Discounts</h2>
+						
+						<!-- Discount offers slider start -->
+						<div class="swiper-container offer-slider">
+							<div class="swiper-wrapper">
+								<div class="swiper-slide">
+									<img src="images/sale-1.jpg" alt="" />
+								</div>
+								
+								<div class="swiper-slide">
+									<img src="images/sale-2.jpg" alt="" />
+								</div>
+								
+								<div class="swiper-slide">
+									<img src="images/sale-3.jpg" alt="" />
+								</div>
+							</div>
+							
+							<div class="offer-pagination"></div>
+						</div>
+						<!-- Discount offers slider end -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Contact Section ends -->
+	
+	<!-- Our Precess section starts -->
+	<section class="our-process">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div class="process-header wow fadeInUp">
+						<h2>Our Process</h2>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+					</div>
+				</div>
+				
+				<div class="col-md-9 col-sm-12">
+					<div class="row">
+						<div class="col-md-2 col-sm-2 col-xs-6">
+							<div class="process-single wow fadeInUp" data-wow-delay="0.4s">
+								<div class="icon-box">
+									<i class="flaticon-chart"></i>
+								</div>
+								<h3>1. Analysis</h3>
+							</div>
+						</div>
+						
+						<div class="col-md-2 col-sm-2 col-xs-6">
+							<div class="process-single wow fadeInUp" data-wow-delay="0.6s">
+								<div class="icon-box">
+									<i class="flaticon-lamp"></i>
+								</div>
+								<h3>2. Concept</h3>
+							</div>
+						</div>
+						
+						<div class="col-md-2 col-sm-2 col-xs-6">
+							<div class="process-single wow fadeInUp" data-wow-delay="0.8s">
+								<div class="icon-box">
+									<i class="flaticon-coffee-maker"></i>
+								</div>
+								<h3>3. Prepare</h3>
+							</div>
+						</div>
+						
+						<div class="col-md-2 col-sm-2 col-xs-6">
+							<div class="process-single wow fadeInUp" data-wow-delay="1.0s">
+								<div class="icon-box">
+									<i class="flaticon-retouch"></i>
+								</div>
+								<h3>4. Retouch</h3>
+							</div>
+						</div>
+						
+						<div class="col-md-2 col-sm-2 col-xs-6">
+							<div class="process-single wow fadeInUp" data-wow-delay="1.2s">
+								<div class="icon-box">
+									<i class="flaticon-list"></i>
+								</div>
+								<h3>5. Finalize</h3>
+							</div>
+						</div>
+						
+						<div class="col-md-2 col-sm-2 col-xs-6">
+							<div class="process-single wow fadeInUp" data-wow-delay="1.4s">
+								<div class="icon-box">
+									<i class="flaticon-aeroplane"></i>
+								</div>
+								<h3>6. Package</h3>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Our Precess section ends -->
+	
+	<!-- Footer starts -->
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3">
+					<div class="footer-quicklinks">
+						<h3>Company</h3>
+						<ul>
+							<li><a href="#">About</a></li>
+							<li><a href="#">Contact</a></li>
+							<li><a href="#">Search</a></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="col-md-3">
+					<div class="footer-quicklinks">
+						<h3>Account</h3>
+						<ul>
+							<li><a href="#">Register</a></li>
+							<li><a href="#">Login</a></li>
+							<li><a href="#">Inquiry</a></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="col-md-3">
+					<div class="footer-quicklinks">
+						<h3>Contact</h3>
+						<ul>
+							<li><a href="#">Privacy Policy</a></li>
+							<li><a href="#">Term & Condition</a></li>
+							<li><a href="#">Sitemap</a></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="col-md-3">
+					<div class="footer-siteinfo">
+						<img src="images/footer-logo.png" alt="" />
+						<p>Copyright &copy; 2022, Design By Masud Rana</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- Footer ends -->
+	
+    <!-- Jquery Library File -->
+	<script src="js/jquery-1.12.4.min.js"></script>
+	<!-- Bootstrap js file -->
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/bootsnav.js"></script>
+	<!-- Bootstrap form validator -->
+	<script src="js/validator.min.js"></script>
+	<!-- Wow js file -->
+	<script src="js/wow.js"></script>
+	<!-- Swiper Carousel js file -->
+	<script src="js/swiper.min.js"></script>
+	<!-- Parallaxie js file -->
+	<script src="js/parallaxie.js"></script>
+	<!-- SmoothScroll -->
+	<script src="js/SmoothScroll.js"></script>
+    <!-- Main Custom js file -->
+	<script src="js/function.js"></script>
+</body>
+
+</html>
+====================
+css:
+================
+/*-----------------------------------------------------------------------------------------
+* Author        : Masuk Mia
+* Template Name : cosmetics landing page
+* File          : CSS File
+* Version       : 1.0.0
+* ---------------------------------------------------------------------------------------- */
+/* INDEX
+----------------------------------------------------------------------------------------
+01. General css
+02. Navigation area css
+03. Slider area css
+04. Benefits area css
+05. Order Now area css
+06. Benefits area css
+07. Testimonials area css
+08. Products area css
+09. Newsletters area css
+10. Contact area css
+11. Our Process area css
+12. Footer area css
+13. Media Screens
+-------------------------------------------------------------------------------------- */
+
+/************************************/
+/***** 	   01. General css		 ****/
+/************************************/
+
+body{
+	font-size: 16px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	margin-top:0;
+	font-weight: 500;
+}
+
+img{
+	max-width: 100%;
+}
+
+a:hover{
+	text-decoration: none;
+	outline: 0;
+}
+
+a:focus{
+	text-decoration: none;
+	outline: 0;
+}
+
+.preloader{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	text-align: center;
+	background: #fe60a1;
+	background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	z-index: 9999;
+}
+
+.loader{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	border: 4px solid #Fff;
+	top: calc(50% - 15px);
+	animation: loader 2s infinite ease;
+}
+
+.loader-inner{
+	vertical-align: top;
+	display: inline-block;
+	width: 100%;
+	background-color: #fff;
+	animation: loader-inner 2s infinite ease-in;
+}
+
+.btn-custom{
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	padding: 14px 30px;
+	min-width: 170px;
+	text-align: center;
+	color: #fff;
+	box-shadow: 1px 2px 46px 0px rgba(0,0,0,0.1);
+	background: #16c9f6;
+	background: linear-gradient(to left, #3ccdbb 0%, #16c9f6 100%);
+	background: -webkit-linear-gradient(to left, #3ccdbb 0%, #16c9f6 100%);
+	background: -moz-linear-gradient(to left, #3ccdbb 0%, #16c9f6 100%);
+	background: -o-linear-gradient(to left, #3ccdbb 0%, #16c9f6 100%);
+}
+
+.btn-custom:hover{
+	background: #16c9f6;
+	color: #fff;
+}
+
+/************************************/
+/***** 02. Navigation area css  *****/
+/************************************/
+
+nav.navbar.bootsnav{
+	background: none !important;
+	z-index: 60;
+	border-bottom: 1px solid transparent;
+}
+
+nav.navbar.bootsnav .navbar-nav{
+	padding-top: 30px;
+	transition: all 0.3s ease-in-out;
+}
+
+.navbar-brand{
+	height: auto;
+	padding: 25px 15px;
+	transition: all 0.3s ease-in-out;
+}
+
+.navbar-right{
+	margin-right: 0;
+}
+
+nav.navbar.bootsnav ul.nav > li{
+	padding: 0 2px;
+}
+
+nav.navbar.bootsnav ul.nav > li > a{
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #fff;
+	padding: 10px 20px;
+	line-height: 1em;
+	border-radius: 40px;
+	letter-spacing: 0.05em;
+	transition: all 0.3s ease-in-out;
+}
+
+nav.navbar.bootsnav ul.nav > li > a:hover{
+	background: rgba(255,255,255,0.2) !important;
+    color: #333c4e !important;
+}
+
+nav.navbar.bootsnav ul.nav > li.active > a{
+	background: rgba(255,255,255,0.2) !important;
+    color: #333c4e !important;
+}
+
+
+nav.navbar.bootsnav.sticky-header{
+	background: #fe60a1 !important;
+    background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%) !important;
+    background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%) !important;
+    background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%) !important;
+    background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%) !important;
+    transition: all 0.3s ease-out;
+}
+
+nav.navbar.bootsnav.sticky-header .navbar-brand{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+nav.navbar.bootsnav.sticky-header .navbar-nav{
+	padding-top: 20px;
+}
+
+/************************************/
+/*****   03. Slider area css    *****/
+/************************************/
+
+.swiper-button-prev{
+	top: 70%;
+	left: 20px;
+}
+
+.swiper-button-next{
+	top: 30%;
+	right: 20px;
+}
+
+.header-slider-btn{
+	background: none;
+	color: #fff;
+	font-size: 60px;
+}
+
+.banner{
+	position: relative;
+	top: 0px;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+	background: #fe60a1;
+	background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	padding: 140px 0 60px;
+}
+
+.banner:before{
+	content: '';
+	display: block;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: -1px;
+	height: 0;
+	width: 100%;
+	overflow: hidden;
+	border-width: 30vw 100vw 0px 0;
+	border-style: solid;
+	border-color: transparent #fff transparent transparent ;
+}
+
+.banner .row{
+	position: relative;
+	z-index: 1;
+}
+
+.header-content{
+	padding-top: 40px;
+}
+
+.header-content h2{
+	font-size: 52px;
+	color: #fff;
+	font-weight: 300;
+	line-height: 1.2em;
+	margin-bottom: 0.6em;
+}
+
+.header-content h2 span {
+    background: #fff;
+    color: #20bea7;
+    text-transform: uppercase;
+    font-size: 32px;
+    padding: 6px 14px;
+}
+
+.header-content p{
+	color: #fff;
+	line-height: 1.5em;
+	font-size: 18px;
+	letter-spacing: 0.04em;
+	margin-bottom: 1.8em;
+}
+
+.header-content p span{
+	font-weight: 700;
+}
+
+.btn-buynow{
+	display: inline-block;
+	background: #fe7088;
+	border: 2px solid #fe7088;
+	border-radius: 26px;
+	color: #fff;
+	text-transform: uppercase;
+	padding: 10px 30px;
+	letter-spacing: 0.04em;
+	font-weight: 600;
+	transition: all 0.3s;
+}
+
+.arrow-left i{
+	padding-right: 10px;
+}
+
+.arrow-right i{
+	padding-left: 10px;
+}
+
+.btn-buynow:hover{
+	background: #fff;
+	color: #fe7088;
+}
+
+.buy-button .btn-buynow{
+	background: none;
+	border-color: #fff;
+	color: #fff;
+}
+
+.buy-button .btn-buynow:hover{
+	background: #fff;
+	color: #fe7088;
+}
+
+.slider-image{
+	text-align: center;
+}
+
+/************************************/
+/*****   04. Benefits area css  *****/
+/************************************/
+
+.section-title{
+	text-align: center;
+	margin-bottom: 80px;
+}
+
+.section-title p{
+	text-transform: uppercase;
+	color: #b7c2ca;
+	letter-spacing: 0.04em;
+}
+
+.section-title h2{
+	color: #333c4e;
+	font-weight: 600;
+	font-size: 36px;
+	padding-bottom: 14px;
+	position: relative;
+}
+
+.section-title h2:after{
+	content: '';
+	display: block;
+	width: 40px;
+	height: 3px;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	margin-left: -20px;
+	background: #fe60a1;
+	background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+}
+
+.benefits{
+	padding: 100px 0;
+}
+
+.benefits .section-title{
+	text-align: left;
+}
+
+.benefits .section-title h2:after{
+	left: 0;
+	margin-left: 0;
+}
+
+.benefits .section-title{
+	margin-bottom: 40px;
+}
+
+.benefits-content p{
+	font-size: 16px;
+	color: #7e8890;
+	line-height: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+.benefits-content ul{
+	padding: 0;
+	margin: 0 0 1.5em;
+	list-style: none;
+}
+
+.benefits-content ul:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+
+.benefits-content ul li{
+	font-size: 16px;
+	color: #7e8890;
+	float: left;
+	width: 48%;
+	padding: 6px 0 6px 30px;
+	position: relative;
+	margin-right: 2%;
+}
+
+.benefits-content ul li:before{
+	content: '\f10e';
+	display: block;
+	font-family: "Flaticon";
+	color: #fe7088;
+	position: absolute;
+	top: 6px;
+	left: 0;
+}
+
+/************************************/
+/*****   05. Order Now area css  ****/
+/************************************/
+
+.ordernow{
+	padding: 60px 0;
+	background: #fe60a1;
+	background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	position: relative;
+	width: 100%;
+}
+
+.ordernow-entry h2{
+	color: #fff;
+	font-weight: 600;
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+.ordernow-entry p{
+	color: #fff;
+	line-height: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+
+.ordernow .btn-buynow{
+	background: none;
+	border-color: #fff;
+	color: #fff;
+}
+
+.ordernow .btn-buynow:hover{
+	background: #fff;
+	color: #fe7088;
+}
+
+.ordernow-image{
+	position: relative;
+	margin-top: -120px;
+	margin-bottom: -120px;
+	text-align: center;
+}
+
+/************************************/
+/*****   06. Benefits area css  *****/
+/************************************/
+
+.features{
+	padding: 100px 0;
+}
+
+.features-single{
+	position: relative;
+	padding-left: 80px;
+	padding-bottom: 30px;
+}
+
+.features-single:before{
+	content: '';
+	display: block;
+	width: 0;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 30px;
+	border-left: 1px dashed #fe7088;
+}
+
+.features-single .icon-box{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: #fff;
+	border-radius: 50%;
+	color: #fff;
+	text-align: center;
+	padding: 4px;
+	border: 1px solid #fe7088;
+}
+
+.features-single .icon-box i{
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	font-size: 30px;
+	padding-top: 4px;
+	border-radius: 50%;
+	background: #fe60a1;
+	background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+}
+
+.features-single h3{
+	color: #333c4e;
+	font-size: 20px;
+	font-weight: 600;
+	text-transform: uppercase;
+	padding: 14px 0;
+}
+
+.features-single p{
+    font-size: 16px;
+    color: #7e8890;
+    line-height: 1.5em;
+    margin: 0;
+}
+
+.features-single .btn-buynow{
+	margin-top: 20px;
+}
+
+/******************************************/
+/*****   07. Testimonials area css    *****/
+/******************************************/
+
+.testimonials{
+	padding: 100px 0;
+	position: relative;
+	background: url(../images/testimonial.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.testimonials:before{
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #fe60a1;
+	background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	opacity: 0.9;
+}
+
+.testimonials .section-title{
+	text-align: left;
+	margin-bottom: 40px;
+}
+
+.testimonials .section-title p,
+.testimonials .section-title h2{
+	color: #fff;
+}
+
+.testimonials .section-title h2:after{
+	left: 0;
+	margin-left: 0;
+	background: #fff;
+}
+
+.testimonial-heading p{
+	color: #fff;
+}
+
+.testimonial-single{
+	background: #fff;
+	padding: 30px;
+	margin-top: 40px;
+	padding-top: 50px;
+}
+
+.testimonial-author{
+	width: 80px;
+	position: absolute;
+	top: 0;
+	background: #fff;
+	padding: 8px;
+}
+
+.testimonial-single p{
+	font-size: 14px;
+    color: #7e8890;
+    line-height: 1.5em;
+}
+
+.testimonial-single h3{
+	font-size: 16px;
+    color: #333c4e;
+	font-weight: 600;
+}
+
+.testimonial-single h3 span{
+	font-size: 14px;
+	font-weight: 400;
+	color: #fe7088;
+	padding-left: 6px;
+}
+
+.testimonial-pagination{
+	padding-top: 20px;
+	text-align: center;
+}
+
+.testimonial-pagination .swiper-pagination-bullet{
+	background: none;
+	border: 1px solid #fff;
+	width: 10px;
+	height: 10px;
+	border-radius: 0;
+}
+
+/*****************************************/
+/*****     08. Products area css     *****/
+/*****************************************/
+
+.products{
+	padding: 100px 0;
+}
+
+.product-image{
+	position: relative;
+}
+
+.product-image figure{
+	position: relative;
+	overflow: hidden;
+}
+
+.product-image figure::before{
+	position: absolute;
+	top: 0;
+	left: -75%;
+	z-index: 2;
+	display: block;
+	content: '';
+	width: 50%;
+	height: 100%;
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	-webkit-transform: skewX(-25deg);
+	transform: skewX(-25deg);
+}
+
+.product-single:hover .product-image figure:before{
+	-webkit-animation: shine .75s;
+	animation: shine .75s;
+}
+
+@-webkit-keyframes shine{
+	100% {
+		left: 125%;
+	}
+}
+
+@keyframes shine{
+	100% {
+		left: 125%;
+	}
+}
+
+.product-information h3{
+	font-size: 18px;
+	font-weight: 700;
+	color: #333c4e;
+	padding-top: 20px;
+}
+
+.product-information h3 a{
+	float: right;
+	font-size: 12px;
+	color: #7e8890;
+	font-weight: 400;
+	padding-top: 4px;
+}
+
+.product-information h3 a:hover{
+	color: #fe7088;
+}
+
+.product-rating{
+	font-size: 12px;
+	color: #fe7088;
+	margin-bottom: 6px;
+}
+
+.price{
+	font-size: 26px;
+	color: #333c4e;
+}
+
+.price del{
+	position: relative;
+	text-decoration: none;
+	color: #b7c2ca;
+}
+
+.price del:after{
+	content: '';
+	display: block;
+	position: absolute;
+	top: 52%;
+	left: 2px;
+	right: 0;
+	height: 1px;
+	background: #7e8890;
+	transform: rotate(20deg);
+}
+
+.price del:before{
+	content: '';
+	display: block;
+	position: absolute;
+	top: 52%;
+	left: 2px;
+	right: 0;
+	height: 1px;
+	background: #7e8890;
+	transform: rotate(-20deg);
+}
+
+/**************************************/
+/*****  09. Newsletters area css  *****/
+/**************************************/
+
+.newsletter{
+	background: #fe60a1;
+	background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+	padding: 100px 0;
+	position: relative;
+}
+
+.newsletter:before{
+	content: '';
+	display: block;
+	height: 0;
+	width: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	border-bottom: 40px solid transparent;
+	border-left: calc(100vw - 17px) solid #fff;
+}
+
+.newsletter:after{
+	content: '';
+	display: block;
+	height: 0;
+	width: 0;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	border-bottom: 40px solid #fff;
+	border-right: calc(100vw - 17px) solid transparent;
+}
+
+.newsletter-box{
+	position: relative;
+	padding-left: 80px;
+}
+
+.newsletter-box:before{
+	content: '\f003';
+	display: block;
+	position: absolute;
+	top: -6px;
+	left: 0;
+	font-size: 60px;
+	color: #fff;
+	font-family: FontAwesome;
+}
+
+.newsletter-box h2{
+	color: #fff;
+	font-weight: 400;
+	font-size: 36px;
+}
+
+.newsletter-box p{
+	color: #fff;
+	margin: 0;
+}
+
+.newsletter-form{
+	max-width: 480px;
+	margin-top: 16px;
+	border-radius: 4px;
+	background: none;
+	border: 2px solid #fff;
+	box-sizing: content-box;
+	overflow: hidden;
+}
+
+.newsletter-form .form-group{
+	width: 100%;
+}
+
+.newsletter-form .form-control{
+	float: left;
+	width: 70%;
+	border: none;
+	background: none;
+	height: 48px;
+	outline: 0;
+	box-shadow: none;
+	padding: 0 20px;
+	font-size: 16px;
+	color: #fff;
+}
+
+.newsletter-form .form-control::-webkit-input-placeholder{
+	color: white;
+}
+
+.newsletter-form .form-control:-moz-placeholder{
+	color: white;
+}
+
+.newsletter-form .form-control::-moz-placeholder {
+	color: white;
+}
+.newsletter-form .form-control:-ms-input-placeholder{
+	color: white;
+}
+
+.newsletter-form .form-control::-ms-input-placeholder{ 
+	color: white;
+}
+
+.btn-subscribe{
+	height: 48px;
+	background: #fff;
+	border: none;
+	width: 30%;
+	color: #fe7088;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.04em;
+	outline: 0;
+	box-shadow: none;
+}
+
+/**************************************/
+/*****    10. Contact area css    *****/
+/**************************************/
+
+.contact{
+	padding: 100px 0;
+}
+
+.contact h2{
+	color: #333c4e;
+    font-weight: 600;
+    font-size: 36px;
+    padding-bottom: 14px;
+    position: relative;
+	margin-bottom: 50px;
+}
+
+.contact h2:after{
+	content: '';
+    display: block;
+    width: 40px;
+    height: 3px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #fe60a1;
+    background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+    background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+    background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+    background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+}
+
+.contact-form .form-control{
+	box-shadow: none;
+	border-radius: 0;
+	height: auto;
+	padding: 8px 14px;
+	border: 1px solid #b7c2ca;
+	resize: none;
+}
+
+.btn-contact{
+	display: inline-block;
+    background: #fe7088;
+    border: 2px solid #fe7088;
+    border-radius: 26px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 30px 10px 20px;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+	outline: 0;
+	box-shadow: none;
+    transition: all 0.3s;
+}
+
+.btn-contact i{
+	padding-right: 10px;
+}
+
+.btn-contact:hover{
+	background: #fff;
+	color: #fe7088;
+}
+
+.offer-pagination{
+	padding: 20px 0;
+	text-align: center;
+}
+
+.offer-pagination .swiper-pagination-bullet{
+	width: 12px;
+	height: 12px;
+	border-radius: 0;
+	background: #fe7088;
+}
+
+/******************************************/
+/*****    11. Our Process area css    *****/
+/******************************************/
+
+.our-process{
+	padding: 80px 0;
+	background: #fe60a1;
+    background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+    background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+    background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+    background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+}
+
+.process-header h2{
+	color: #fff;
+	font-weight: 600;
+	padding-top: 12px;
+}
+
+.process-header p{
+	color: #fff;
+	margin: 0;
+}
+
+.process-single{
+	text-align: center;
+}
+
+.process-single .icon-box{
+	width: 80px;
+	height: 80px;
+	margin: 0 auto;
+	color: #fff;
+	font-size: 40px;
+	padding-top: 12px;
+	border-radius: 50%;
+	border: 1px dashed rgba(255,255,255,0.5);
+}
+
+.process-single h3{
+	font-weight: 600;
+	color: #fff;
+	font-size: 18px;
+	margin: 10px 0 0;
+	letter-spacing: 0.02em;
+}
+
+/*************************************/
+/*****    12. Footer area css    *****/
+/*************************************/
+
+footer{
+	padding: 60px 0;
+}
+
+.footer-siteinfo img{
+	margin-bottom: 20px;
+}
+
+.footer-siteinfo p{
+	color: #7e8890;
+}
+
+.footer-quicklinks h3{
+	font-size: 18px;
+	font-weight: 600;	
+	color: #333c4e;
+}
+
+.footer-quicklinks ul{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.footer-quicklinks ul li{
+	
+}
+
+.footer-quicklinks ul li a{
+	display: block;
+	font-size: 14px;
+	color: #7e8890;
+	padding: 3px 0;
+}
+
+/************************************/
+/*****    13. Media Screens     *****/
+/************************************/
+
+@media only screen and (max-width: 1200px){
+	.navbar-default .navbar-nav>li>a:after{
+		padding: 0 12px 0 14px;
+	}
+}
+
+@media only screen and (max-width: 991px){
+	
+	nav.navbar.bootsnav .navbar-header{
+		padding-left: 0;
+		padding-right: 0;
+		position: relative;
+	}
+	
+	nav.navbar.bootsnav.sticky-header .navbar-brand,
+	nav.navbar.bootsnav .navbar-brand{
+		display: block;
+		padding: 14px 0 13px;
+	}
+	
+	nav.navbar.bootsnav .navbar-collapse{
+		background: #fe60a1;
+		background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+		background: -webkit-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+		background: -moz-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+		background: -o-linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+		padding: 0 15px;
+		margin: 0;
+	}
+	
+	nav.navbar.bootsnav .navbar-toggle{
+		background: none;
+		height: 36px;
+		width: 36px;
+		color: #fff;
+		margin: 0;
+		border: 1px solid #fff;
+		border-radius: 0;
+		position: absolute;
+		right: 0;
+		top: 16px;
+	}
+	
+	nav.navbar.bootsnav .navbar-nav{
+		margin: 0;
+		padding: 0;
+	}
+	
+	nav.navbar.bootsnav.sticky-header ul.nav > li > a,
+	nav.navbar.bootsnav ul.nav > li > a{
+		padding: 14px 0;
+		border: none;
+		margin: 0;
+	}
+	
+	nav.navbar.bootsnav ul.nav > li > a:after{
+		display: none;
+	}
+	
+	nav.navbar.bootsnav ul.nav > li > a:hover{
+		background: rgba(255,255,255,0) !important;
+		color: #333c4e !important;
+	}
+
+	nav.navbar.bootsnav ul.nav > li.active > a{
+		background: rgba(255,255,255,0) !important;
+		color: #333c4e !important;
+	}
+	
+	nav.navbar.bootsnav.sticky-header .navbar-nav{
+		padding-top: 0;
+	}
+	
+	.swiper-button-group{
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		text-align: center;
+		padding-bottom: 10px;
+	}
+	
+	.swiper-button-next,
+	.swiper-button-prev{
+		display: inline-block;
+		position: relative;
+		top: auto;
+		left: auto;
+		right: auto;
+		color: #fe7088;
+		margin: 0 8px;
+	}
+	
+	.feature-image{
+		text-align: center;
+		margin-bottom: 40px;
+	}
+	
+	.features-single:before{
+		display: none;
+	}
+	
+	.testimonial-slider{
+		margin-top: 30px;
+	}
+	
+	.newsletter-box{
+		margin-bottom: 30px;
+	}
+	
+	.contact-form{
+		margin-bottom: 40px;
+	}
+	
+	.process-header{
+		margin-bottom: 30px;
+	}
+	
+	.footer-siteinfo,
+	.footer-quicklinks{
+		margin-bottom: 30px;
+	}
+}
+
+/* Mobile Layout */
+@media only screen and (max-width: 767px){
+	
+	nav.navbar.bootsnav.sticky-header .navbar-brand,
+	nav.navbar.bootsnav .navbar-brand{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	
+	nav.navbar.bootsnav .navbar-toggle{
+		right: 15px;
+	}
+	
+	nav.navbar.bootsnav .navbar-collapse{
+		margin-left: -15px;
+		margin-right: -15px;
+	}
+	
+	.banner:before{
+		display: none;
+	}
+	
+	.section-title{
+		margin-bottom: 60px;
+	}
+	
+	.section-title h2,
+	.contact h2{
+		font-size: 26px;
+	}
+	
+	.section-title p{
+		font-size: 14px;
+	}
+	
+	.header-content{
+		margin-bottom: 40px;
+	}
+	
+	.header-content h2{
+		font-size: 36px;
+	}
+	
+	.header-content p{
+		font-size: 16px;
+	}
+	
+	.swiper-button-group{
+		padding-bottom: 30px;
+	}
+	
+	.swiper-button-next,
+	.swiper-button-prev{
+		color: #fff;
+	}
+	
+	.banner{
+		padding: 80px 0;
+	}
+	
+	.benefits,
+	.features,
+	.testimonials,
+	.products,
+	.newsletter,
+	.contact,
+	.our-process{
+		padding: 60px 0;
+	}
+	
+	.benefits-image{
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	
+	.benefits-content ul li{
+		width: 100%;
+		margin-right: 0;
+	}
+	
+	.ordernow-entry{
+		text-align: center;
+		margin-bottom: 40px;
+	}
+	
+	.ordernow-image{
+		margin: 0;
+	}
+	
+	.newsletter:after,
+	.newsletter:before{
+		display: none;
+	}
+	
+	.newsletter-form{
+		border: none;
+		text-align: center;
+	}
+	
+	.newsletter-form .form-control{
+		border: 2px solid #fff;
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+	.btn-subscribe{
+		display: inline-block;
+		width: 160px;
+		border-radius: 2px;
+	}
+	
+	.newsletter-box{
+		padding-left: 0;
+		padding-top: 70px;
+		text-align: center;
+	}
+	
+	.newsletter-box:before{
+		line-height: 1em;
+		left: 50%;
+		transform: translate(-50%,0);
+	}
+	
+	.newsletter-box h2{
+		font-size: 24px;
+	}
+	
+	.process-single{
+		margin-bottom: 30px;
+	}
+}
+
+/* Small Mobile Layout */
+
+@media only screen and (max-width: 480px) {
+	.features-single{
+		padding-left: 0;
+		padding-top: 60px;
+		margin-bottom: 30px;
+	}
+
+	.features-single:last-child{
+		margin-bottom: 0;
+	}
+	
+	footer{
+		padding-bottom: 30px;
+	}
+}
+======================
+js:
+=============
+(function ($) {
+    "use strict";
+	
+	var $window = $(window); 
+	var $body = $('body'); 
+	
+	/* Preloader Effect */
+	$window.load(function() {
+		$(".preloader").fadeOut(600);
+    });
+	
+	/* Sticky header */
+	$window.scroll(function(){
+    	if ($window.scrollTop() > 200) {
+			$('.navbar').addClass('sticky-header');
+		} else {
+			$('.navbar').removeClass('sticky-header');
+		}
+	});
+	
+	/* Our Client slider */
+	var swiper = new Swiper('.testimonial-slider', {
+		grabCursor: true,
+		speed: 1500,
+		autoplay: true,
+		slidesPerView: 2,
+		spaceBetween: 30,
+		breakpoints: {
+			480: {
+				slidesPerView: 1
+			},
+			
+			768: {
+				slidesPerView: 2
+			}
+		},
+		pagination: {
+			el: '.testimonial-pagination',
+			type: 'bullets',
+			clickable: true
+		},
+	});
+	
+	/* Product slider */
+	var swiper = new Swiper('.product-slider', {
+		grabCursor: true,
+		speed: 1500,
+		autoplay: true,
+		slidesPerView: 4,
+		spaceBetween: 30,
+		breakpoints: {
+			480: {
+				slidesPerView: 1
+			},
+			
+			768: {
+				slidesPerView: 2
+				
+			},
+			
+			991: {
+				slidesPerView: 3
+				
+			}
+		},
+
+	});
+	
+	
+	/* Offers slider */
+	var swiper = new Swiper('.offer-slider', {
+		effect: 'cube',
+		speed: 1500,
+		autoplay: true,
+		grabCursor: true,
+		cubeEffect: {
+			shadow: false
+		},
+		pagination: {
+			el: '.offer-pagination',
+			clickable: true
+		},
+	});
+	
+	/* Header slider */
+	var swiper = new Swiper('.header-slider', {
+		allowSwipeToPrev: false,
+		grabCursor: true,
+		autoplay: true,
+		speed: 1500,
+		loop: true,
+		pagination: {
+			el: '.swiper-pagination',
+		},
+		navigation: {
+		nextEl: '.swiper-button-next',
+		prevEl: '.swiper-button-prev',
+		},
+	});
+	
+	/* Contact form validation */
+	var $contactform=$("#contactForm");
+	$contactform.validator({focus: false}).on("submit", function (event) {
+		if (!event.isDefaultPrevented()) {
+			event.preventDefault();
+			submitForm();
+		}
+	});
+
+	function submitForm(){
+		/* Initiate Variables With Form Content*/
+		var name = $("#name").val();
+		var email = $("#email").val();
+		var subject = $("#subject").val();
+		var message = $("#message").val();
+
+		$.ajax({
+			type: "POST",
+			url: "form-process.php",
+			data: "name=" + name + "&email=" + email + "&subject=" + subject + "&message=" + message,
+			success : function(text){
+				if (text == "success"){
+					formSuccess();
+				} else {
+					submitMSG(false,text);
+				}
+			}
+		});
+	}
+
+	function formSuccess(){
+		$contactform[0].reset();
+		submitMSG(true, "Message Sent Successfully!");
+	}
+
+	function submitMSG(valid, msg){
+		if(valid){
+			var msgClasses = "h3 text-success";
+		} else {
+			var msgClasses = "h3 text-danger";
+		}
+		$("#msgSubmit").removeClass().addClass(msgClasses).text(msg);
+	}
+	/* Contact form validation end */
+	
+	/* Animate with wow js */
+    new WOW({mobile:false}).init(); 
+	
+	/* Parallaxie Js */
+	if ($(window).width() > 768) {
+		$('.parallaxie').parallaxie({
+			speed: 0.55,
+			 offset: 0,
+		});
+	}
+})(jQuery);
+===================
